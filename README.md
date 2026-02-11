@@ -13,11 +13,12 @@
 <br />
 
 ### 👨‍💻 **About Me**
-I am a Computer Science undergraduate focused on building **scalable AI applications**. I don't just train models; I build end-to-end systems that solve real-world problems. My expertise lies in **Retrieval-Augmented Generation (RAG)** for enterprise data and **lightweight CNNs** for industrial automation.
+I am a Computer Science undergraduate passionate about **Machine Learning** and **Artificial Intelligence**. 
+My focus is on developing data-driven solutions—from training **Deep Learning models** for Computer Vision to building **Generative AI** applications for text retrieval. I enjoy bridging the gap between complex algorithms and practical, real-world utility.
 
-- 🔭 I’m currently working on **Advanced RAG Architectures** and **Agentic AI**.
-- 👯 I’m looking to collaborate on **Open Source Computer Vision projects**.
-- 💬 Ask me about **LangChain, TensorFlow, and Vector Databases**.
+- 🔭 I’m currently working on **Optimizing CNN Architectures** and **RAG Systems**.
+- 🧠 I’m deep diving into **Model Fine-Tuning** and **ML Pipelines**.
+- 💬 Ask me about **Python, TensorFlow, Computer Vision, and LLMs**.
 
 ---
 
