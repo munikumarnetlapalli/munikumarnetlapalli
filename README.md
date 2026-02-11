@@ -1,7 +1,6 @@
-# Muni-kumar-netlapalli
 <div align="center">
   <h1>Hi there, I'm Muni Kumar Netlapalli 👋</h1>
-  <h3>AI Engineer | Computer Vision | GenAI & RAG Systems</h3>
+  <h3>AI / ML  | Computer Vision | GenAI & RAG Systems</h3>
   
   <a href="https://www.linkedin.com/in/munikumar-netlapalli">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -50,9 +49,6 @@ I am a Computer Science undergraduate focused on building **scalable AI applicat
 - **Optimization:** Improved data throughput by **40%** using `tf.data` parallel prefetching.
 
 ---
-
-### 📊 **GitHub Stats**
-
 
 
 <div align="center">
