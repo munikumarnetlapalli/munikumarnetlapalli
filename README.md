@@ -1,7 +1,7 @@
 <!-- DASHBOARD HEADER -->
 <div align="center">
-  <h1>🚀 MUNI KUMAR NETLAPALLI | ML DASHBOARD</h1>
-  <h3>Machine Learning | Deep Learning | Computer Vision</h3>
+  <h1>🚀 NETLAPALLI MUNI KUMAR NETLAPALLI </h1>
+  <h3>Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision</h3>
   
   <a href="https://www.linkedin.com/in/munikumar-netlapalli">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,21 +16,6 @@
 
 <br />
 
-<!-- STATS PANEL (The "Dashboard" Metrics) -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=munikumarnetlapalli&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=munikumarnetlapalli&theme=radical&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
 
 <!-- MAIN CONTENT GRID -->
 <table>
