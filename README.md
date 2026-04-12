@@ -1,6 +1,6 @@
 <!-- DASHBOARD HEADER -->
 <div align="center">
-  <h1>🚀 NETLAPALLI MUNI KUMAR NETLAPALLI </h1>
+  <h1>🚀 NETLAPALLI MUNI KUMAR </h1>
   <h3>Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision</h3>
   
   <a href="https://www.linkedin.com/in/munikumar-netlapalli">
