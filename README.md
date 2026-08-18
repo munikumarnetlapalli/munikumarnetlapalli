@@ -17,45 +17,5 @@
 <br />
 
 
-<!-- MAIN CONTENT GRID -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      
-### 👨‍💻 **Profile Overview**
-I am a Computer Science undergraduate specializing in **Data-Driven AI**. I build pipelines that turn unstructured data into actionable intelligence.
 
-- **Current Focus:** Optimizing RAG Systems & Industrial CV.
-- **Core Stack:** Python, TensorFlow, LangChain.
-- **Goal:** Solving real-world problems with scalable ML models.
-
-<br />
-
-### 🧠 **Tech Stack Console**
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Deep Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
-| **GenAI & NLP** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) |
-| **Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![CNNs](https://img.shields.io/badge/CNNs-MobileNet-blue?style=flat-square) |
-| **Tools** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-
-   </td>
-    <td width="40%" valign="top">
-      <h3 align="center">📊 Languages</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munikumarnetlapalli&layout=compact&theme=radical&hide_border=true" />
-      </div>
-      <br />
-      <div align="center">
-        <img src="https://img.shields.io/badge/Accuracy-98%25-success?style=for-the-badge" />
-        <br />
-        <br />
-        <img src="https://img.shields.io/badge/Throughput-40%25_Boost-blueviolet?style=for-the-badge" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br />
 
